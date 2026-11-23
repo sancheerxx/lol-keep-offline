@@ -1,0 +1,11 @@
+# 打包与运行产物
+build/
+dist/
+*.spec
+__pycache__/
+*.py[cod]
+
+# 本地配置与日志
+.ghconfig/
+gh_login.log
+*.log
